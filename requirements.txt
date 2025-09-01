@@ -1,0 +1,6 @@
+tk
+opencv-python
+pandas
+matplotlib
+Pillow
+mysql-connector-python
